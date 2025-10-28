@@ -1,0 +1,12 @@
+site_id,species,series_id,n_years,lat,lon
+S1,Pinus ponderosa,PP_01,412,45.1,-112.4
+S1,Pinus ponderosa,PP_02,380,45.1,-112.4
+S2,Picea abies,PA_01,265,60.0,10.5
+S2,Picea abies,PA_02,301,60.0,10.5
+S3,Quercus robur,QR_01,198,52.5,13.4
+S3,Quercus robur,QR_02,176,52.5,13.4
+S4,Betula pendula,BP_01,142,59.3,24.7
+S5,Pinus sylvestris,PS_01,361,57.0,25.0
+S6,Abies alba,AA_01,244,46.5,11.3
+S7,Larix decidua,LD_01,318,47.2,9.8
+S8,Quercus petraea,QP_01,205,50.1,8.7

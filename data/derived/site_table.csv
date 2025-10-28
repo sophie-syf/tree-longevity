@@ -1,0 +1,9 @@
+site_id,species,bio1,bio12,bio4,biome
+S1,Pinus ponderosa,6.5,380.0,550.0,Temperate Conifer Forests
+S2,Picea abies,2.1,780.0,650.0,Boreal Forests/Taiga
+S3,Quercus robur,9.2,540.0,480.0,Temperate Broadleaf & Mixed Forests
+S4,Betula pendula,4.3,620.0,600.0,Boreal Forests/Taiga
+S5,Pinus sylvestris,5.1,590.0,590.0,Boreal Forests/Taiga
+S6,Abies alba,,,,
+S7,Larix decidua,,,,
+S8,Quercus petraea,,,,
