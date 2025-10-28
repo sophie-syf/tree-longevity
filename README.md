@@ -7,6 +7,6 @@ ITRDB-like ring series → species‑level longevity proxies → join climate & 
  run the scripts:
 ```bash
 python src/compute_longevity.py
-python src/02_join_climate.py
-python src/03_modeling.py
+python src/join_climate.py
+python src/modeling.py
 ```
